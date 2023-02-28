@@ -1,6 +1,6 @@
 <?php 
 $npm = '82';
-$kali5 = $npm * 9;
+$kali5 = $npm * 5;
 $bagi2 = $npm / 2;
 $tambah75 = $npm + 75;
 $kurang20 = $npm - 20;
